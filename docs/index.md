@@ -1,8 +1,13 @@
 # How to Make Breakfast
 
-[Intro](intro.md)<br\>
-[How to Make Avocado Toast](avocadotoast.md)<br\>
-[How to Make an Acai Smoothie](smoothie.md)<br\>
-[How to Make an Omelet](omelet.md)<br\>
-[How to Make Oatmeal](oatmeal.md)<br\>
+[Intro](intro.md)
+
+[How to Make Avocado Toast](avocadotoast.md)
+
+[How to Make an Acai Smoothie](smoothie.md)
+
+[How to Make an Omelet](omelet.md)
+
+[How to Make Oatmeal](oatmeal.md)
+
 [Sources](sources.md)
